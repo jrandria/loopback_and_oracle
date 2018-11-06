@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 1521,
+    "database": "meetup",
+    "password": "pass",
+    "name": "db",
+    "tns": "localhost/orcl",
+    "user": "meetup",
+    "connector": "oracle"
+  }
+}
